@@ -54,7 +54,7 @@ The project is designed to provide a simple and interactive ATM-like experience 
 
 The user must enter the correct PIN before accessing the ATM menu.
 
-```text
+
 🔐 ENTER LOGIN PIN
 Enter PIN: ****
 
@@ -64,7 +64,7 @@ Enter PIN: ****
 
 Users can check their current account balance.
 
-```text
+
 💰 Your Current Balance: ₹10,000
 
 💸 Enter Amount to Withdraw: ₹2,000
